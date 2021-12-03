@@ -1,0 +1,25 @@
+body { 
+  min-height: 500px;
+  background-attachment: fixed;
+  background-position: center;
+  background-size: cover;
+  }
+
+.X-set {  background-image: url("https://i.imgur.com/OY1c8JR.png") ;
+
+height:500px; width:400px;
+  background-position: center;
+  background-repeat: no-repeat;
+  background-size: 400px;
+  
+  margin-left:400px;
+  border:none;
+  }
+  .Z-set { height:15px; width:100px; margin-left:88px; border:none;}
+  .xpass {height:28px; width:220px; margin-left:100px; border:none; margin-top:4px; background-color:transparent;}
+ .xpass:focus{outline: none;}
+    .spass {height:34px; width:270px; margin-left:60px; border:none; margin-top:18px; background-color:transparent;}
+	
+	.copx {width:215px; border:hidden; background-color:transparent;}
+ .copx:focus{outline: none;}
+ 
